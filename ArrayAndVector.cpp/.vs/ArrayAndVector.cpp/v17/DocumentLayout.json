@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cdust\\OneDrive\\Desktop\\CSC-140\\Module-5-Working-with-Arrays-and-Vectors\\ArrayAndVector.cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FD1119-D3E0-4D29-8FC1-82F6263B22A1}|ArrayAndVector.cpp\\ArrayAndVector.cpp.vcxproj|C:\\Users\\cdust\\OneDrive\\Desktop\\CSC-140\\Module-5-Working-with-Arrays-and-Vectors\\ArrayAndVector.cpp\\ArrayAndVector.cpp\\ArrayAndVector.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51FD1119-D3E0-4D29-8FC1-82F6263B22A1}|ArrayAndVector.cpp\\ArrayAndVector.cpp.vcxproj|solutionrelative:ArrayAndVector.cpp\\ArrayAndVector.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayAndVector.cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\cdust\\OneDrive\\Desktop\\CSC-140\\Module-5-Working-with-Arrays-and-Vectors\\ArrayAndVector.cpp\\ArrayAndVector.cpp\\ArrayAndVector.cpp.cpp",
+              "RelativeDocumentMoniker": "ArrayAndVector.cpp\\ArrayAndVector.cpp.cpp",
+              "ToolTip": "C:\\Users\\cdust\\OneDrive\\Desktop\\CSC-140\\Module-5-Working-with-Arrays-and-Vectors\\ArrayAndVector.cpp\\ArrayAndVector.cpp\\ArrayAndVector.cpp.cpp",
+              "RelativeToolTip": "ArrayAndVector.cpp\\ArrayAndVector.cpp.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T22:57:36.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
